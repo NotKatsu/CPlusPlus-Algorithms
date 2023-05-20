@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/logan/Documents/GitHub/CPlusPlus-Algorithms",
-      "program": "c:/Users/logan/Documents/GitHub/CPlusPlus-Algorithms/build/Debug/outDebug",
+      "cwd": "c:/Users/logan/Documents/GitHub/CPlusPlus-Algorithms/Binary Search",
+      "program": "c:/Users/logan/Documents/GitHub/CPlusPlus-Algorithms/Binary Search/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
