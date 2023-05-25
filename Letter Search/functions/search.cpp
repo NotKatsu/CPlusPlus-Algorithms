@@ -1,8 +1,10 @@
+#include <iostream>
 #include <string>
 #include <vector>
 
-#include <iostream>
-
 std::vector<std::string> letter_search(std::string word) {
-    std::cout << "Hello World" << std::endl;
+    std::vector<std::string> result;
+    result.push_back("Hello"); result.push_back("World");
+
+    return result;
 }
